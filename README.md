@@ -10,7 +10,7 @@ Mon travail explore comment les biais cognitifs et les traits de personnalité i
 Comprendre comment les attaquants manipulent la psychologie humaine pour maximiser l’efficacité de leurs cyberattaques et proposer des pistes pour renforcer la sensibilisation et la protection des utilisateurs.
 
 📄 Contenu du dépôt
-🔹 Page de garde 🔹 Sommaire – Aperçu de la structure du travail 🔹 Résumé du mémoire 🔹 Introduction 🔹 Bibliographie
+🔹 Page de garde 🔹 Sommaire – Aperçu de la structure du travail 🔹 Résumé du mémoire en français🔹 Résumé du mémoire en anglais 🔹 Introduction 🔹 Bibliographie
 
 🔍 Résumé rapide
 Les cyberattaques de phishing exploitent les failles psychologiques pour inciter les individus à divulguer des informations sensibles. Dans cette étude, j’ai analysé cinq biais cognitifs principaux et les traits de personnalité du modèle Big Five sous l’angle de la théorie Heuristique-Systématique.
