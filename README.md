@@ -1,3 +1,30 @@
+EN
+# CyberPsy_Phishing
+Exploring the impact of cognitive biases and personality traits on vulnerability to phishing attacks
+
+🛡️ Phishing & Cognitive Biases – Analyzing Human Vulnerability
+📌 Overview
+This repository contains a summary of my MIASHS Bachelor's thesis (Mathematics and Computer Science Applied to Human and Social Sciences, Cognitive Sciences). My research explores how cognitive biases and personality traits affect individuals' vulnerability to phishing attacks.
+
+🎯 Project Objective
+Understanding how attackers manipulate human psychology to maximize the effectiveness of their cyberattacks and identifying ways to enhance awareness and user protection.
+
+📄 Repository Content
+🔹 Cover page – General information about the thesis 🔹 Table of contents – Overview of the document structure 🔹 Thesis summary in English🔹 Thesis summary in French 🔹 Introduction 🔹 Bibliography
+
+🔍 Quick Summary
+Phishing cyberattacks exploit psychological vulnerabilities to trick individuals into disclosing sensitive information. In this study, I analyzed five major cognitive biases and Big Five personality traits through the lens of the Heuristic-Systematic Model.
+
+🔎 Limitations & Future Research
+The planned experiment for this study was conducted, but the full experimental framework could not be completed due to certain methodological constraints and a lack of technical resources.
+
+Future research could explore :
+- Improving the experimental protocol for better result validation.
+- Integrating new analytical techniques to refine understanding of cognitive biases in cyberattacks.
+- Collaborating with cybersecurity and cognitive psychology experts to deepen this research.
+
+
+FR
 # CyberPsy_Phishing
 Exploration de l’impact des biais cognitifs et des traits de personnalité sur la vulnérabilité face aux attaques de phishing
 
